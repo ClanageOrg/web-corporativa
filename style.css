@@ -48,8 +48,8 @@
 
 :root {
     --ink: #182632;
-    --ink-soft: #32424e;
-    --muted: #65727c;
+    --ink-soft: #2b3944;
+    --muted: #505b63;
     --line: #dfe6eb;
     --line-strong: #cbd6dd;
     --surface: #f6f9fb;
@@ -624,7 +624,7 @@ a:focus-visible {
 .brand-card-copy span {
     color: var(--muted);
 
-    font-size: 0.78rem;
+    font-size: 0.85rem;
     font-weight: 600;
     letter-spacing: 0.08em;
 
