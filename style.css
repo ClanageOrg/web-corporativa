@@ -519,7 +519,7 @@ a:focus-visible {
     width: 6px;
     height: 6px;
 
-    background: var(--green);
+    background: var(--red);
 
     border-radius: 50%;
 
@@ -528,7 +528,7 @@ a:focus-visible {
 
 
 .hero-points li:nth-child(2)::before {
-    background: var(--red);
+    background: var(--green);
 }
 
 
