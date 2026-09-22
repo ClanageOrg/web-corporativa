@@ -510,7 +510,7 @@ a:focus-visible {
 
     color: var(--ink-soft);
 
-    font-size: 0.82rem;
+    font-size: 0.9rem;
     font-weight: 600;
 }
 
@@ -810,7 +810,7 @@ a:focus-visible {
 
 
 .service-card h3 {
-    max-width: 280px;
+    max-width: 288px;
 
     margin-bottom: 15px;
 
