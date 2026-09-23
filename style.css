@@ -923,12 +923,7 @@ a:focus-visible {
     height: 40px;
 
     display: grid;
-
     place-items: center;
-
-    color: var(--blue-dark);
-
-    background: var(--blue-soft);
 
     border-radius: 50%;
 
@@ -937,23 +932,26 @@ a:focus-visible {
 }
 
 
-.process-list li:nth-child(2) > span {
+.process-list li:nth-child(1) > span {
     color: #b82c25;
-
     background: var(--red-soft);
 }
 
 
-.process-list li:nth-child(3) > span {
+.process-list li:nth-child(2) > span {
     color: #568f12;
-
     background: var(--green-soft);
+}
+
+
+.process-list li:nth-child(3) > span {
+    color: var(--blue-dark);
+    background: var(--blue-soft);
 }
 
 
 .process-list li:nth-child(4) > span {
     color: #5f6b74;
-
     background: #eef1f3;
 }
 
