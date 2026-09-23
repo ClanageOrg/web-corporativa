@@ -330,6 +330,14 @@ a:focus-visible {
 }
 
 
+.eyebrow .lowercase-i {
+    width: auto;
+    height: auto;
+    background: none;
+    text-transform: lowercase;
+}
+
+
 .eyebrow > span {
     width: 27px;
     height: 2px;
