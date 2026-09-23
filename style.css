@@ -616,6 +616,11 @@ a:focus-visible {
 }
 
 
+.brand-card-copy .keep-case {
+    text-transform: none;
+}
+
+
 .brand-card-copy p {
     margin-bottom: 4px;
 
